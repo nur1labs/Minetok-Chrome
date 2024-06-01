@@ -1,2 +1,2 @@
-# Minetok-Chrome
-Chrome Wallet For Minetok
+# Chrome-Wallet
+Releases Chrome Wallet
